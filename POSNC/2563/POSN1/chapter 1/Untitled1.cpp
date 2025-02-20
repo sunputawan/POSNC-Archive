@@ -1,7 +1,0 @@
-#include<stdio.h>
-int main(){
-	int n1, n2, n3, n4;
-	printf("Enter some 4 int seperately :");
-	scanf("%d %*d %*d %d", &n1, &n2, &n3, &n4);
-	printf("%d %d %d %d",n1, n2, n3, n4);
-}
